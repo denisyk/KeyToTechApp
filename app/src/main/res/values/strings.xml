@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KeyToTechTest</string>
+    <string name="title_bounds">Enter bounds</string>
+    <string name="title_comments">Comments</string>
+
+    <string name="text_submit">Submit</string>
+    <string name="text_max_bound">Enter max bound</string>
+    <string name="text_min_bound">Enter min bound</string>
+</resources>
